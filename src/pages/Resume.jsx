@@ -35,7 +35,7 @@ const Resume = () => {
     return (
         <div className="container my-4 position-relative">
             <div className="text-center mb-4">
-                <a className="btn btn-danger position-absolute top-0 end-0" href="./src/assets/Resume 1130.pdf" download>
+                <a className="btn btn-danger position-absolute top-0 end-0" href="/public/Resume1130.pdf" download>
                     Download Resume
                 </a>
             </div>
